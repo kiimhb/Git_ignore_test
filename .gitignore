@@ -98,3 +98,6 @@ replay_pid*
 ##### commit 제외파일 #####
 /Dynamic Web Project 이름/src/main/java/nocommit_all/
 /Dynamic Web Project 이름/src/main/java/nocommit_some/NoCommit_3.java 
+.classpath
+.gitignore
+/Git_ignore_test/src/main/webapp/WEB-INF/web.xml
